@@ -1,6 +1,10 @@
 # MUSIC_STORE_ANALYSIS
 SQL project to analyze online music store data
 
+This project aim is to find the employees working in
+company those who have participated in music
+competition.
+
 
 # DATABASE AND TOOLS
 * MYSQL WORKBENCH
