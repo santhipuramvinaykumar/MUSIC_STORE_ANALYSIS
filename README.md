@@ -10,4 +10,4 @@ SQL project to analyze online music store data
 Schema- Music Store Database  
 
 
-![MusicDatabaseSchema](https://1drv.ms/u/s!Ag9pkX-L3VHKjQVzeu9NAf9ggn5d?e=ccYEpl)
+![MusicDatabaseSchema](https://github.com/santhipuramvinaykumar/MUSIC_STORE_ANALYSIS/blob/main/MUSIC_STORE_ER_DIAGRAM.mwb)
